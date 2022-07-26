@@ -25,8 +25,8 @@ CV:
 
 What are my featured projects❓🚀
 
-Appointment booking 
+<a href="">Appointment booking</a>
 
-Hello Chef(Recipe App)
+<a href="">Hello Chef(Recipe App)</a>
 
-
+<a href="">Beach and mountain generation(GanScape)</a>
