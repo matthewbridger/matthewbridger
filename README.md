@@ -27,6 +27,6 @@ What are my featured projects❓🚀
 
 <a href="">Appointment booking</a>
 
-<a href="">Hello Chef(Recipe App)</a>
+<a href="https://github.com/matthewbridger/Hello-Chef">Hello Chef(Recipe App)</a>
 
 <a href="https://github.com/matthewbridger/Beach-image-generation">Beach and mountain generation(GanScape)</a>
