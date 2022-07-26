@@ -19,7 +19,7 @@ Email: matthewbridger2000@gmail.com
 CV:
 </b>
 <p>
-<a href="https://github.com/matthewbridger/matthewbridger/blob/main/CV/Matthew%20Bridger%20CV%202022.docx">CV Link</a>
+<a href="https://github.com/matthewbridger/matthewbridger/blob/main/CV/Matthew%20Bridger%20CV%202022.pdf">CV Link</a>
 </p>
 
 
