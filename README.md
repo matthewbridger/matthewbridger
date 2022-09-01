@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matthew Bridger</h1>
-<h3 align="center">Welcome to my GitHub profile</h3>
+<h3 align="center">Welcome to my GitHub Portfolio!</h3>
 
-- 🌱 I’m currently learning **I'm currently improving my python skill**
+What are my featured projects❓🚀
+
+<a href="https://github.com/matthewbridger/Booking-Application">Appointment booking</a>
+
+<a href="https://github.com/matthewbridger/Hello-Chef">Hello Chef(Recipe App)</a>
+
+<a href="https://github.com/matthewbridger/Beach-image-generation">Beach and mountain generation(GanScape)</a>
 
 - 📫 How to reach me **matthewbridger2000@gmail.com**
 
